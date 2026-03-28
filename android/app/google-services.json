@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36729205950",
+    "project_id": "first-ecommerce-app-b38ba",
+    "storage_bucket": "first-ecommerce-app-b38ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36729205950:android:6434e125b064f8b591daef",
+        "android_client_info": {
+          "package_name": "com.example.first_ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCOcPnr3o5EaS1yMoSJOlilLg9Ji5IuX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
